@@ -12,9 +12,3 @@ software engineering, without you ever noticing.
 - [Use it now](https://naima-project.github.io/naima/install.html)
 - [Tell me more: the primer](https://naima-project.github.io/naima/docs.html?p=guide/primer.md)
 - [The repository](https://github.com/naima-project/naima): a star helps others find it.
-
-Developed at the [Formal Methods and Tools lab](https://fmt.isti.cnr.it/) of
-[ISTI](https://www.isti.cnr.it/), the Institute of Information Science and
-Technologies of the Italian National Research Council ([CNR](https://www.cnr.it/)),
-with [make become](https://make-become.github.io/) and the
-[University of Amsterdam](https://www.uva.nl/en).
